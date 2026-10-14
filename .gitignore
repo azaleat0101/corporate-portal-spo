@@ -1,0 +1,20 @@
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Логи
+*.log
+logs/

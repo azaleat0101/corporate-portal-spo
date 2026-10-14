@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Venv
+.venv/
+venv/
+env/
+ENV/
+
+# Сборка
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Тесты / кэши
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Env
+.env
+.env.*
+!.env.example
